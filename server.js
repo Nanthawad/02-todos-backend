@@ -1,6 +1,3 @@
-import { request } from 'https';
-import { create } from 'domain';
-
 require('dotenv').config()
 const express = require('express')
 const app = express()
